@@ -15,5 +15,6 @@ public class Main {
         circle.draw();
         triangle.draw();
         square.draw();
+
     }
 }
